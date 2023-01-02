@@ -1,7 +1,7 @@
  <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hello!+I'm+Gustavo!+"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=8AFA52&size=22&center=true&vCenter=true&lines=Hello!+I'm+Gustavo!+"/>
 </h1>
-<h3 align="center"> A Full-stack Web Developer from Argentina.</h3>
+<h3 align="center"> A Full-stack Web Developer from Mexico.</h3>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gussm07&show_icons=true&theme=dark)
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/estefania-santana" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="estefania-santana" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-sandoval-morales-6a8211108/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="estefania-santana" height="40" width="40" /></a>
 </p>
 
 
