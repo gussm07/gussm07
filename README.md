@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gussm07&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gussm07&show_icons=true)
 
 [![Gus' GitHub stats](https://github-readme-stats.vercel.app/api?username=gussm07)](https://github.com/anuraghazra/github-readme-stats)
 <!---
