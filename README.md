@@ -4,9 +4,10 @@
 <h3 align="center"> A Full-stack Web Developer from Mexico.</h3>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gussm07&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gussm07&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gussm07&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gussm07&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
