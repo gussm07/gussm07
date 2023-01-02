@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gustavo-sandoval-morales-6a8211108/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="estefania-santana" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-sandoval-morales-softwaredev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="estefania-santana" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
