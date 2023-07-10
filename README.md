@@ -1,5 +1,5 @@
  <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=8AFA52&size=22&center=true&vCenter=true&lines=Hello!+I'm+Gustavo!+"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=d60f00&size=22&center=true&vCenter=true&lines=Hello!+I'm+Gustavo!+"/>
 </h1>
 <h3 align="center"> A Full-stack Web Developer | MERN Stack | Mexico.</h3>
 <br/>
